@@ -1,1 +1,4 @@
 # Pineda.J_FinalProject
+## Picoplankton in the Equatorial Pacific
+This project analyzed flow cytometry data collected during the TN413 Cruise from Hawaii to Fiji alongside seawater nitrate concentrations in the same range determined using a Darwin climatology model; the flow cytometry data and climatology data were sourced from SIMONSCMAP. The cytometry and climatology data files were cleaned (removed undesired data), merged, and converted to .csv files. Using the flow cytometry data, picoplankton (Prochlorococcus, Synechococcus, Picoeukaryotes) abundance was compared against nitrate concentration to determine if trends between the two variables were apparent. The climatology data was used to visualize nitrate distribution along a longitudinal/latitudinal area for this equatorial Pacific area. The resulting analysis supported my hypothesis that Prochlorococcus would be more abundant than Synechococcus and Picoeukaryotes in low nitrate areas. 
+### Jessica Pineda
